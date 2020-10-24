@@ -44,20 +44,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sidhearts's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sidhearts&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://sidhearts.herokuapp.com
 [twitter]: https://twitter.com/sidhearts26
