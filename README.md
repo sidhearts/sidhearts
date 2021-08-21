@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddharth Raj - aka [Sidhearts][website] 👋
 
-[![Website](https://img.shields.io/website?label=Sidhearts.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sidhearts.herokuapp.com/)
+[![Website](https://img.shields.io/website?label=Sidhearts.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sidhearts.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sidhearts26?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sidhearts26)
 
 ## I'm a Developer, and Student!!
@@ -8,7 +8,7 @@
 - 🔭 I just launched my portfolio website: [Sidhearts][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a big foodie
 
 ### Spotify Playing 🎧
