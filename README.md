@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddharth Raj - aka [Sidhearts][website] 👋
 
-[![Website](https://img.shields.io/website?label=Sidhearts.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://sidhearts.tech/)
+[![Website](https://img.shields.io/website?label=Sidhearts.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://sidhearts.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sidhearts26?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sidhearts26)
 
 ## I'm a Developer, and Student!!
