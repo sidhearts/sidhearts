@@ -10,10 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sidhearts.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -49,7 +47,5 @@
 
 <p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-[website]: http://sidhearts.tech
 [twitter]: https://twitter.com/sidhearts26
-[instagram]: https://instagram.com/sidhearts
 [linkedin]: https://linkedin.com/in/siddharth-raj-439164179
